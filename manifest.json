@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "hasan",
+  "version": "1.0.1",
+  "description": "for test virsion ",
+  "icons": {
+      "128": "128.png",
+    "148": "148.png",
+    "16": "16.png"
+  },
+  "browser_action": {
+    "default_icon": "16.png",
+    "default_popup": "popup.html"
+  }
+}
